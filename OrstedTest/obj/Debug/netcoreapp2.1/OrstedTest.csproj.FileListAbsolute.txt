@@ -1,0 +1,14 @@
+C:\Users\Yks_r\Desktop\Test\OrstedTest\bin\Debug\netcoreapp2.1\OrstedTest.deps.json
+C:\Users\Yks_r\Desktop\Test\OrstedTest\bin\Debug\netcoreapp2.1\OrstedTest.runtimeconfig.json
+C:\Users\Yks_r\Desktop\Test\OrstedTest\bin\Debug\netcoreapp2.1\OrstedTest.runtimeconfig.dev.json
+C:\Users\Yks_r\Desktop\Test\OrstedTest\bin\Debug\netcoreapp2.1\OrstedTest.dll
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.csprojAssemblyReference.cache
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.csproj.CoreCompileInputs.cache
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.RazorAssemblyInfo.cache
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.RazorAssemblyInfo.cs
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.AssemblyInfoInputs.cache
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.AssemblyInfo.cs
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.RazorTargetAssemblyInfo.cache
+C:\Users\Yks_r\Desktop\Test\OrstedTest\bin\Debug\netcoreapp2.1\OrstedTest.pdb
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.dll
+C:\Users\Yks_r\Desktop\Test\OrstedTest\obj\Debug\netcoreapp2.1\OrstedTest.pdb

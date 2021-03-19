@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TechTestMVC.Models.EmployeeViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+    ViewBag.Title = "Index";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+
+        @if (item.Status == "Regular")
+        {
+            <td>
+                <span style="color:green">@Html.DisplayFor(modelItem => item.EmpNo)</span>
+            </td>
+            <td>
+                <span style="color:green">@Html.DisplayFor(modelItem => item.FirstName)</span>
+            </td>
+            <td>
+                <span style="color:green">@Html.DisplayFor(modelItem => item.LastName)</span>
+            </td>
+        }
+        else
+        {
+            <td>
+                <span style="color:yellow">@Html.DisplayFor(modelItem => item.EmpNo)</span>
+            </td>
+            <td>
+                <span style="color:yellow">@Html.DisplayFor(modelItem => item.FirstName)</span>
+            </td>
+            <td>
+                <span style="color:yellow">@Html.DisplayFor(modelItem => item.LastName)</span>
+            </td>
+        }
+
+    </tr>
+        }
+    </table>
+</div>
